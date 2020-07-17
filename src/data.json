@@ -1,0 +1,88 @@
+[
+  {
+    "id": 0,
+    "likedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 1,
+    "name": "Tom Cruise",
+    "movies": "Mission Impossible",
+    "age": 52,
+    "image": "tom.jpg",
+    "likedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 2,
+    "name": "Arnie",
+    "movies": "Predator",
+    "age": 65,
+    "image": "arnie.jpeg",
+    "likedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 3,
+    "name": "JCVD",
+    "movies": "Kickboxer",
+    "age": 50,
+    "image": "jcvd.jpeg",
+    "likedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 4,
+    "name": "Chuck",
+    "movies": "Texas Ranger",
+    "age": 80,
+    "image": "chucknorris.jpg",
+    "likedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 5,
+    "name": "Sylvester",
+    "movies": "Rambo",
+    "age": 24,
+    "image": "rocky.jpeg",
+    "likedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 6,
+    "name": "Bruce",
+    "movies": "Die Hard",
+    "age": 50,
+    "image": "bruce.jpg",
+    "likedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 7,
+    "name": "Keanu",
+    "movies": "Bill and Ted",
+    "age": 24,
+    "image": "speed.jpeg",
+    "likedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "name": "Harrison",
+    "movies": "Indian Jones",
+    "age": 32,
+    "image": "starwars.jpeg",
+    "likedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  }
+]
