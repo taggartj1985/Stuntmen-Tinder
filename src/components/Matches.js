@@ -7,7 +7,7 @@ const Matches = ({ activeUserImage, likedUsers}) => (
       <p>
         {likedUsers.length > 0
           ? "Stuntmen you want for your next movie!"
-          : ''}
+          : 'Need to keep looking!'}
       </p>
 
       {likedUsers.map(item => (
